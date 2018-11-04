@@ -1,0 +1,6 @@
+framework module Pods_GettingStartedRxSwift4_RxDataSources {
+  umbrella header "Pods-GettingStartedRxSwift4-RxDataSources-umbrella.h"
+
+  export *
+  module * { export * }
+}
